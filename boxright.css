@@ -1,0 +1,45 @@
+  #Name{
+    background-color:rgb(255, 226, 226);
+    width: 200px;
+    height:40px;
+    border:1.5px solid rosybrown;
+    border-radius: 20px ;
+    
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+    
+  
+}
+.short-text{
+    color:blueviolet;
+    font-size:20px;
+    font-style: italic;
+    text-shadow: 1px 1px red;
+} */
+ .options select{
+ background-color: rgb(224, 194, 228);
+ color: black;
+ height:50px;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ border:none;
+ box-shadow:  0 5px 25px rgba(0,0,0,0.2);
+ -webkit-appearance: button;
+ appearance: button;
+
+}
+.options select option:hover{
+    
+    background-color: rgb(224, 191, 255);
+} 
+
+#Datepicker{
+background-color: rgb(205, 253, 107);
+box-shadow:0 5px 25px rgba(0,0, 0, 0.2);
+color:black;
+height: 40px;
+border-radius: 10px;
+}
+#img{
+    background-color:rgb(240, 204, 138);
+    box-shadow: 0 5px 25px rgba(0,0,0,0.2);
+}
